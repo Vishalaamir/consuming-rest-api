@@ -1,5 +1,5 @@
 package api;
-
+//POJO
 public class Employee {
 	private int id;
 	private String first_name;
